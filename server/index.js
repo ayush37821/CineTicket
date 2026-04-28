@@ -9,7 +9,7 @@ import Upcoming from './mongodb/models/upcoming.js';
 import Credits from './mongodb/models/casts.js';
 
 import authRoutes from './routes/authRoutes.js';
-// MONGODB_URL="mongodb+srv://chavhanpranay:7774860123@cluster0.mt1t8k5.mongodb.net/?retryWrites=true&w=majority"
+
 
 
 
